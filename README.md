@@ -3,7 +3,7 @@
 - Hi, I’m Luke Arthur
 - I’m interested in ... Programming, Aviation, and Mission service.
 - How to reach me through my email or website ... Luke@rescuerising.com, [My Website](
-www.rescuerising.com
+https://www.rescuerising.com
 "RescueRising.com"
 )
 
