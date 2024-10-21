@@ -9,6 +9,7 @@ https://www.rescuerising.com
 
 1. this is the first thing
 2. this is the second thing but strikethrough
+<s>strikethrough</s>
 3. this is the third thing
 
 
